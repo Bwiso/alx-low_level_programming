@@ -1,6 +1,10 @@
 #include <stdio.h>
 
-/* Code to print a message */
+/**
+ * This is a program that
+ * will print a
+ * message
+ */
 int main(void)
 {
 		puts("\"Programming is like building a multilingual puzzle");
