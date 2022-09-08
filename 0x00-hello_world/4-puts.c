@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/* Code to print a message*/
+/* Code to print a message main.c*/
 
 int main(void)
 {
