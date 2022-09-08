@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 /**
- * This is a program that
- * will print a
- * message
+ * main - Entry point
+ * 
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
-/* takes NO argument */	
 {
 		puts("\"Programming is like building a multilingual puzzle");
 		return (0);
-		/* prints code */
 }
