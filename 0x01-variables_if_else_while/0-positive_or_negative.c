@@ -1,7 +1,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-
 /**
  *main - Positive or Negative - print sign of random number
  *@void: Empty parameter list for main.
@@ -22,16 +21,16 @@ int main(void)
 	n = rand() - RAND_MAX / 2;
 
 	if (n > 0)
-	{					
-		printf("%d is positive\n", n);
+	{
+	printf("%d is positive\n", n);
 	}
 	else if (n == 0)
 	{
-		printf("%d is zero\n", n);
+	printf("%d is zero\n", n);
 	}
 	else
 	{
-		printf("%d is negative\n", n);
+	printf("%d is negative\n", n);
 	}
 	return (0);
 }
