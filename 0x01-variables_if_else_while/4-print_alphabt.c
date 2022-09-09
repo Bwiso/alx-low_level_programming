@@ -17,19 +17,19 @@ int main(void)
 	while (letter <= 'z')
 	{
 		if (letter == 'q')
-		{	
+		{
 			letter++;
 		}
 		else if (letter == 'e')
-		{	
+		{
 			letter++;
 		}
 		else
 		{
 			putchar(letter);
-			letter++;					
+			letter++;
 		}
-	}
+	}		
 	putchar('\n');
 	return (0);
 }
