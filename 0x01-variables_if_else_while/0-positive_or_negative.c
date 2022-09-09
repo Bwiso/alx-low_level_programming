@@ -17,7 +17,6 @@ int main(void)
 	  *coding that will assigns a random value.
 	  */
 	int n;
-
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 
