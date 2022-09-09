@@ -1,7 +1,14 @@
 #include <stdlib.h>
 #include <time.h>
-/* more headers goes there */
-/* betty style doc for function main goes there */
+
+/**
+ *main - The last digit
+ *@void: Empty parameter list for main.
+ *more headers goes there
+ *betty style doc for function main goes there
+ *main - The last digit
+ *Return: 0 for success
+ */
 int main(void)
 {
 	int n;
