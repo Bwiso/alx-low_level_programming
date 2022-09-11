@@ -21,9 +21,9 @@ int main(void)
 			{
 				if ((i < j) & (j < k) & (k <= '9'))
 				{
-					putchar(0);
-					putchar(1);
-					putchar(2);
+					putchar(i);
+					putchar(j);
+					putchar(k);
 
 					if ((i + j + k) < 168)
 					{
