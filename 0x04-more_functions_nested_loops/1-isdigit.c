@@ -1,12 +1,9 @@
 /**
  *_isdigit - checks if value a digit 0-9
- *Return: 1 if c is a digit, otherwise 0
+ *Return: Success
  **/
 
 int _isdigit(int c)
 {
-	if (c >= 48 && c <= 57)
-		return (1);
-	else
-		return (0);
+	return  (c <= '0' && c >= '9');
 }
