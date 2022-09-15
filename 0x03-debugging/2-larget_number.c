@@ -1,10 +1,3 @@
-Task 2.txt
-Yesterday
-Wed 11:28 AM
-
-Antony Bahati uploaded an item
-Text
-Task 2.txt
 #include "main.h"
 
 /**
