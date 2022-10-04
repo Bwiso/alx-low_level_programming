@@ -1,1 +1,1 @@
-THis is about static libraries
+This is about static libraries 
