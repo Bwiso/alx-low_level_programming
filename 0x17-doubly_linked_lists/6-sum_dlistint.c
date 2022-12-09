@@ -1,6 +1,6 @@
 /*
  * File: 6-sum_dlistint.c
- * Auth: Dabwiso Daka 
+ * Auth: Dabwiso Daka
  */
 
 #include "lists.h"
