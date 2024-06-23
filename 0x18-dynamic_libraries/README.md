@@ -1,0 +1,1 @@
+This project demonstrates how to create and use dynamic libraries in C. Dynamic libraries, also known as shared libraries, allow programs to share code and data. This can save memory and disk space, and allow for code reuse and easier updates.
